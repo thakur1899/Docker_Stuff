@@ -1,0 +1,15 @@
+From nginx
+
+#using a web server from dockerhub
+
+MAINTAINER mohini123@gmail.com 
+
+COPY adhoc.html /usr/share/nginx/html/index.html
+
+#location   
+
+
+
+
+
+#EXPOSE 80
